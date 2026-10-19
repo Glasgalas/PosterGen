@@ -1,7 +1,7 @@
 [
   {
     "guid": "f84d2b1a-96e3-4c5a-b1b2-7e89143a2cde",
-    "name": "Poster Collage Generator",
+    "name": "Poster Gen",
     "description": "Автоматично генерує фонові HD колажі для бібліотек фільмів та серіалів.",
     "overview": "Генератор колажів для бібліотек Jellyfin",
     "owner": "Glasgalas",
