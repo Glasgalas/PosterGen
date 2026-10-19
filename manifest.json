@@ -1,19 +1,19 @@
 [
   {
     "guid": "f84d2b1a-96e3-4c5a-b1b2-7e89143a2cde",
-    "name": "Poster Gen",
+    "name": "PosterGen",
     "description": "Автоматично генерує фонові HD колажі для бібліотек фільмів та серіалів.",
     "overview": "Генератор колажів для бібліотек Jellyfin",
     "owner": "Glasgalas",
     "category": "General",
     "versions": [
       {
-        "version": "1.0.0.0",
-        "changelog": "Початковий реліз плагіна.",
+        "version": "1.1.0.0",
+        "changelog": "Версія 1.1.0.0: Офіційна назва PosterGen, додано API контролер для ручного оновлення колажів та логотип плагіна.",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/Glasgalas/PosterGen/releases/download/v1.0.0.0/poster-collage_1.0.0.0.zip",
-        "checksum": "ea6a0fd0e6063b2fd7193e19aac04f98",
-        "timestamp": "2026-10-19T11:20:00Z"
+        "sourceUrl": "https://github.com/Glasgalas/PosterGen/releases/download/v1.1.0.0/PosterGen_1.1.0.0.zip",
+        "checksum": "49418ba96752154e31e07b21cc8419f0",
+        "timestamp": "2026-10-19T13:00:00Z"
       }
     ]
   }
